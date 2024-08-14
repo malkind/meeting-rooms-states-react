@@ -11,7 +11,7 @@ In the project directory, you can run:
 Runs the server in the development mode.\
 Open [http://localhost:8000](http://localhost:8000) to view it in the browser.
 
-NOTE: db.json contains the data for the rooms and the config of the state machine.
+**NOTE**: db.json contains the data for the rooms and the config of the state machine.
 rooms.json file (in public) has a copy of those rooms, so you can always restore\reset state of data
 
 ### `npm run start-server`
