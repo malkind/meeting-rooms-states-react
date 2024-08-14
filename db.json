@@ -1,0 +1,296 @@
+{
+  "rooms": [
+    {
+      "name": "Conference Room A",
+      "id": 1,
+      "meetings": [
+        {
+          "startTime": 1713274800000,
+          "endTime": 1713282000000,
+          "title": "Project Kickoff",
+          "description": "Initial meeting to discuss project goals and deliverables.",
+          "owner": "Daniel",
+          "id": 101
+        },
+        {
+          "startTime": 1713292800000,
+          "endTime": 1713300000000,
+          "title": "Sprint Planning",
+          "description": "Planning for the upcoming sprint and task allocation.",
+          "owner": "Daniel",
+          "id": 102
+        },
+        {
+          "startTime": 1713312000000,
+          "endTime": 1713319200000,
+          "title": "Budget Review",
+          "description": "Review of the current budget and financial planning.",
+          "owner": "Daniel",
+          "id": 103
+        },
+        {
+          "startTime": 1713340800000,
+          "endTime": 1713348000000,
+          "title": "Team Alignment",
+          "description": "Meeting to align team goals and responsibilities.",
+          "owner": "Daniel",
+          "id": 104
+        },
+        {
+          "startTime": 1713362400000,
+          "endTime": 1713369600000,
+          "title": "Stakeholder Update",
+          "description": "Update meeting for stakeholders on project progress.",
+          "owner": "Daniel",
+          "id": 105
+        }
+      ]
+    },
+    {
+      "name": "Meeting Room B",
+      "id": 2,
+      "meetings": [
+        {
+          "startTime": 1713376800000,
+          "endTime": 1713384000000,
+          "title": "Design Review",
+          "description": "Review of the latest design mockups and feedback session.",
+          "owner": "Daniel",
+          "id": 201
+        },
+        {
+          "startTime": 1713398400000,
+          "endTime": 1713405600000,
+          "title": "Marketing Strategy",
+          "description": "Discussion on marketing strategies and campaign planning.",
+          "owner": "Daniel",
+          "id": 202
+        },
+        {
+          "startTime": 1713412800000,
+          "endTime": 1713420000000,
+          "title": "Sales Forecast",
+          "description": "Review and forecast of upcoming sales targets and trends.",
+          "owner": "Daniel",
+          "id": 203
+        },
+        {
+          "startTime": 1713434400000,
+          "endTime": 1713441600000,
+          "title": "Product Roadmap",
+          "description": "Planning and discussion of the product roadmap and upcoming features.",
+          "owner": "Daniel",
+          "id": 204
+        },
+        {
+          "startTime": 1713456000000,
+          "endTime": 1713463200000,
+          "title": "Customer Support",
+          "description": "Meeting to review customer support issues and strategies.",
+          "owner": "Daniel",
+          "id": 205
+        }
+      ]
+    },
+    {
+      "name": "Breakout Room C",
+      "id": 3,
+      "meetings": [
+        {
+          "startTime": 1713463200000,
+          "endTime": 1713470400000,
+          "title": "Team Standup",
+          "description": "Daily standup meeting to sync up on progress and blockers.",
+          "owner": "Daniel",
+          "id": 301
+        },
+        {
+          "startTime": 1713484800000,
+          "endTime": 1713492000000,
+          "title": "Client Feedback",
+          "description": "Session to review feedback from the client and discuss improvements.",
+          "owner": "Daniel",
+          "id": 302
+        },
+        {
+          "startTime": 1713502800000,
+          "endTime": 1713510000000,
+          "title": "Quarterly Review",
+          "description": "Quarterly review meeting to assess performance and set new goals.",
+          "owner": "Daniel",
+          "id": 303
+        },
+        {
+          "startTime": 1713520800000,
+          "endTime": 1713528000000,
+          "title": "Training Session",
+          "description": "Training session on new tools and technologies.",
+          "owner": "Daniel",
+          "id": 304
+        },
+        {
+          "startTime": 1713542400000,
+          "endTime": 1713549600000,
+          "title": "Innovation Workshop",
+          "description": "Workshop focused on brainstorming and innovation.",
+          "owner": "Daniel",
+          "id": 305
+        }
+      ]
+    },
+    {
+      "name": "Executive Suite D",
+      "id": 4,
+      "meetings": [
+        {
+          "startTime": 1713564000000,
+          "endTime": 1713571200000,
+          "title": "Executive Briefing",
+          "description": "Briefing for executives on company performance and strategy.",
+          "owner": "Daniel",
+          "id": 401
+        },
+        {
+          "startTime": 1713585600000,
+          "endTime": 1713592800000,
+          "title": "Leadership Retreat",
+          "description": "Strategic planning and team-building retreat for leadership.",
+          "owner": "Daniel",
+          "id": 402
+        },
+        {
+          "startTime": 1713600000000,
+          "endTime": 1713607200000,
+          "title": "Investment Review",
+          "description": "Review of investment opportunities and financial strategies.",
+          "owner": "Daniel",
+          "id": 403
+        },
+        {
+          "startTime": 1713621600000,
+          "endTime": 1713628800000,
+          "title": "Board Meeting",
+          "description": "Monthly board meeting to discuss company progress and issues.",
+          "owner": "Daniel",
+          "id": 404
+        },
+        {
+          "startTime": 1713650400000,
+          "endTime": 1713657600000,
+          "title": "Strategic Planning",
+          "description": "Long-term strategic planning session for company growth.",
+          "owner": "Daniel",
+          "id": 405
+        }
+      ]
+    },
+    {
+      "name": "Collaboration Hub E",
+      "id": 5,
+      "meetings": [
+        {
+          "startTime": 1713664800000,
+          "endTime": 1713672000000,
+          "title": "Product Brainstorm",
+          "description": "Brainstorming session for new product ideas and features.",
+          "owner": "Daniel",
+          "id": 501
+        },
+        {
+          "startTime": 1713686400000,
+          "endTime": 1713693600000,
+          "title": "Tech Talks",
+          "description": "Informal tech talks and knowledge sharing session.",
+          "owner": "Daniel",
+          "id": 502
+        },
+        {
+          "startTime": 1713700800000,
+          "endTime": 1713708000000,
+          "title": "Employee Feedback",
+          "description": "Session to gather employee feedback and discuss improvements.",
+          "owner": "Daniel",
+          "id": 503
+        },
+        {
+          "startTime": 1713717600000,
+          "endTime": 1713724800000,
+          "title": "Vendor Negotiation",
+          "description": "Negotiation meeting with potential vendors and suppliers.",
+          "owner": "Daniel",
+          "id": 504
+        },
+        {
+          "startTime": 1713739200000,
+          "endTime": 1713746400000,
+          "title": "Monthly Review",
+          "description": "Monthly review meeting to assess team performance and goals.",
+          "owner": "Daniel",
+          "id": 505
+        }
+      ]
+    }
+  ],
+  "config": {
+    "id": "my-machine",
+    "initialState": "idle",
+    "states": {
+      "idle": {
+        "transitions": {
+          "roomsFetched": {
+            "nextState": "viewRooms"
+          }
+        }
+      },
+      "viewRooms": {
+        "transitions": {
+          "roomSelected": {
+            "nextState": "viewRoom"
+          }
+        }
+      },
+      "viewRoom": {
+        "transitions": {
+          "back": {
+            "nextState": "viewRooms"
+          },
+          "new": {
+            "nextState": "scheduling"
+          },
+          "edit": {
+            "nextState": "editing"
+          },
+          "error": {
+            "nextState": "error"
+          },
+          "delete": {
+            "nextState": "viewRoom"
+          }
+        }
+      },
+      "scheduling": {
+        "transitions": {
+          "cancel": {
+            "nextState": "viewRoom"
+          },
+          "save": {
+            "nextState": "viewRoom"
+          }
+        }
+      },
+      "editing": {
+        "transitions": {
+          "cancel": {
+            "nextState": "viewRoom"
+          },
+          "save": {
+            "nextState": "viewRoom"
+          }
+        }
+      },
+      "error": {
+        "transitions": {}
+      }
+    }
+  }
+}

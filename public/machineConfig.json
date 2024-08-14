@@ -1,0 +1,31 @@
+{
+  "config": {
+    "id": "meeting-room-machine",
+    "initialState": "idle",
+    "context": {
+      "rooms": [],
+      "currentRoom": null,
+      "meetings": [],
+      "currentMeeting": null
+    },
+    "states": {
+      "idle": {
+        "invoke": {
+          "name": "fetchRooms",
+          "onSuccess": ""
+        }
+      },
+      "viewing-rooms": {},
+
+      "selecting-room": {},
+      "scheduling": {},
+      "edit-success": {},
+      "edit-failure": {},
+      "scheduling-success": {},
+      "scheduling-error": {},
+      "cancel-scheduling": {},
+      "cancel-editing": {},
+      "delete-booking": {}
+    }
+  }
+}
